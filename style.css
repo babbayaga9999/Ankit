@@ -1,0 +1,61 @@
+.header{
+    
+    display: flex;
+    background-color: #000000;
+    color: white;
+    
+}
+.Resume a{
+    color: white;
+}
+ .name{
+    font-family: serif;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header h2{
+    font-family: serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.header p{
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Resume{
+    margin-top: 20px;
+    background-color:#0B60B0 ;
+    font-family: serif;
+    font-weight: bold;
+   color: white;
+}
+.projects{
+    background-color:#40A2D8 ;
+    font-weight: bold;
+    font-family: serif;
+    color: white;
+    font-size: large;
+}
+.about{
+    background-color: #F0EDCF;
+    font-family: serif;
+    font-size: large;
+
+}
+.contact{
+    background-color: #0D9276;
+
+}
+.contact a{
+    color: white;
+}
